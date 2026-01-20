@@ -54,22 +54,23 @@ ridebooking/
 ├── Main.java
 │
 ├── model/
-│ ├── Rider.java
-│ ├── Driver.java
-│ ├── Ride.java
-│ ├── FareReceipt.java
-│ ├── RideStatus.java
-│ └── VehicleType.java
+│   ├── Rider.java
+│   ├── Driver.java
+│   ├── Ride.java
+│   ├── FareReceipt.java
+│   ├── RideStatus.java
+│   └── VehicleType.java
 │
 ├── service/
-│ ├── RiderService.java
-│ ├── DriverService.java
-│ └── RideService.java
+│   ├── RiderService.java
+│   ├── DriverService.java
+│   └── RideService.java
 │
 ├── strategy/
-│ ├── RideMatchingStrategy.java
-│ ├── NearestDriverStrategy.java
-│ ├── LeastActiveDriverStrategy.java
-│ ├── FareStrategy.java
-│ ├── DefaultFareStrategy.java
-│ └── PeakHourFareStrategy.java
+│   ├── RideMatchingStrategy.java
+│   ├── NearestDriverStrategy.java
+│   ├── LeastActiveDriverStrategy.java
+│   ├── FareStrategy.java
+│   ├── DefaultFareStrategy.java
+│   └── PeakHourFareStrategy.java
+
