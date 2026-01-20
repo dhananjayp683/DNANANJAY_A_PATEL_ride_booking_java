@@ -50,6 +50,7 @@ The project is designed using clean architecture principles with a strong focus 
 
 ## 📂 Project Structure
 
+```text
 ridebooking/
 ├── Main.java
 │
